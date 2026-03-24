@@ -14,7 +14,7 @@ def cadastrar_feiras_agricultura_familiar():
     inserir_feira_agricultura_familiar(
         FeiraAgriculturaFamiliar(nome='Feira de Sinop', data_realizacao=Data(20, 8, 2026), cidade='Sinop', horario='8:30', uf='MT'))
     inserir_feira_agricultura_familiar(
-        FeiraAgriculturaFamiliar(nome='Feira de Guarulhos', data_realizacao=Data(1, 9, 2027), cidade='Guarulhos', horario='20:00', uf='SP'))
+        FeiraAgriculturaFamiliar(nome='Feira de Guarul"hos', data_realizacao=Data(1, 9, 2027), cidade='Guarulhos', horario='20:00', uf='SP'))
     inserir_feira_agricultura_familiar(
         FeiraAgriculturaFamiliar(nome='Feira de BH', data_realizacao=Data(1, 9, 2027), cidade='Belo Horizonte', horario='20:00', uf='MG'))
 
